@@ -7,7 +7,8 @@ import static org.junit.Assert.*;
 /**
  * Modified by kristofer 3/4/2024.
  */
-public class TestPredicateUtilities {
+public class
+TestPredicateUtilities {
     private static volatile PredicateUtilities predicateUtilities = new PredicateUtilities();
 
     @Test
